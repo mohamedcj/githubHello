@@ -1,2 +1,2 @@
 # GitHub Hello
-Testing and exploring git ...
+Testing and exploring git, github Desktop and in eclipse.
