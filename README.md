@@ -1,2 +1,2 @@
-# projects
-Mes projets
+# GitHub Hello
+Testing and exploring git ...
