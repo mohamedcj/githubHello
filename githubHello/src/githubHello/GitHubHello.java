@@ -3,7 +3,7 @@ package githubHello;
 public class GitHubHello {
 
 	public static void main(String[] args) {
-		String[] names = {"Abdessalam","Maryem", "Selsabil", "Sirine", "Beya", "Yacine", "Sara", "Mohamed Aziz", "Sophia" };
+		String[] names = {"Abdessalam","Maryem", "Selsabil", "Sirine", "Beya", "Yacine", "Sara", "Mohammed Aziz", "Sophia" };
 
 		// a greeting msg pour les bons amis !!!
 		for(String name : names){
@@ -23,7 +23,7 @@ public class GitHubHello {
 	
 
 	private static String greetingMsg(){
-		return "Helllo world. My name is: ";
+		return "Hi my name is: ";
 	}
 	
 }
