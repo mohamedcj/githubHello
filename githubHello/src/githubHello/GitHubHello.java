@@ -10,7 +10,6 @@ public class GitHubHello {
 			System.out.println("Helllo world. My name is: " + name);
 			System.out.println("How ate you today?");
 		}
-		
 
 	}
 
