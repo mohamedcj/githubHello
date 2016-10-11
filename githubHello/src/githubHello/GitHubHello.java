@@ -9,13 +9,13 @@ public class GitHubHello {
 		for(String name : names){
 			System.out.println("Helllo world. My name is: " + name);
 			System.out.println("How ate you today?");
-			aplus();
+			System.out.println(aplus());
 		}
 
 	}
 	
 	private static String aplus(){
-		return "Au revoir";
+		return "Au revoir.";
 	}
 
 }
