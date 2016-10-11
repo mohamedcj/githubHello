@@ -7,7 +7,7 @@ public class GitHubHello {
 
 		// a greeting msg pour les bons amis !!!
 		for(String name : names){
-			System.out.println("Hi my name is: " + name);
+			System.out.println( greetingMsg()+ name);
 			System.out.println("How ate you today?");
 			System.out.println(aplus());
 		}
@@ -15,7 +15,12 @@ public class GitHubHello {
 	}
 	
 	private static String aplus(){
-		return "Au revoir.";
+		return "Au revoir et à la prochaine.";
 	}
+	
 
+	private static String greetingMsg(){
+		return "Hi my name is: ";
+	}
+	
 }
