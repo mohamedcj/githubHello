@@ -11,6 +11,9 @@ public class GitHubHello {
 			System.out.println("How ate you today?");
 			System.out.println(aplus());
 		}
+		
+		Television tv = new Television(1, "tva", "La chaine la plus ...");
+		System.out.println(tv.toString());
 
 	}
 	
