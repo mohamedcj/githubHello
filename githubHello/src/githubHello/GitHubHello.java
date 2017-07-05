@@ -14,6 +14,7 @@ public class GitHubHello {
 		
 		Television tv = new Television(1, "tva", "La chaine la plus ...");
 		System.out.println(tv.toString());
+		//Ajouter ce commentaire pour tester git
 
 	}
 	
